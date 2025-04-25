@@ -32,7 +32,8 @@ if __name__ == "__main__":
     nas_list = {
         "Chengdu_WLC": "10.133.246.5",
         "Singapore_WLC": "10.127.230.5",
-        "Hyderabad_WLC": "10.152.230.5"
+        "Hyderabad_WLC": "10.152.230.5",
+        "Tokyo_WLC": "10.121.230.9"
     }
 
     for wlc, nas_ipaddress in  nas_list.items():
